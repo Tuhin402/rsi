@@ -1,0 +1,6 @@
+Django==3.2.18
+gunicorn
+requests
+pandas
+beautifulsoup4
+reportlab
